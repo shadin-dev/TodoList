@@ -23,7 +23,7 @@ export default function App() {
   };
 
   const deleteTask = () => {
-    console.log(task);
+    console.log();
   };
   return (
     <View style={styles.container}>
